@@ -77,7 +77,7 @@ public class room extends javax.swing.JFrame {
 
         jButton8.setText("Rời phòng");
 
-        jTextPane1.setText("người 3");
+        jTextPane1.setText("người 4");
         jScrollPane1.setViewportView(jTextPane1);
 
         jTextPane2.setText("người 4");

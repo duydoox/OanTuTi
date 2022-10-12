@@ -164,7 +164,7 @@
       <SubComponents>
         <Component class="javax.swing.JTextPane" name="jTextPane1">
           <Properties>
-            <Property name="text" type="java.lang.String" value="ng&#x1b0;&#x1edd;i 3"/>
+            <Property name="text" type="java.lang.String" value="ng&#x1b0;&#x1edd;i 4"/>
           </Properties>
         </Component>
       </SubComponents>
