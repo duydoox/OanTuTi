@@ -22,7 +22,7 @@ public class Server {
 
     public static void main(String[] args) {
         ServerSocket listener = null;
-        int clientNumber = 0;
+        int clientID = 0;
         try {
             listener = new ServerSocket(8888);
         } catch (IOException e) {
